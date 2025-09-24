@@ -1,0 +1,5 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\System32\stdole2.tlb#OLE Automation
+' Project Files
+Form=Form1.frm
+Reference=*\G{3B7C8861-D78F-101B-B9B5-04021C009402}#1.2#0#C:\Windows\System32\MSWORD.OLB#Microsoft Word 12.0 Object Library
