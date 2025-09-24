@@ -1,0 +1,12 @@
+{
+  "name": "legacy-monorepo",
+  "version": "1.0.0",
+  "projects": {
+    "vb6_app": "vb6_app",
+    "dotnet_3_5": "dotnet_3_5",
+    "vb_net_old": "vb_net_old",
+    "asp_classic": "asp_classic",
+    "legacy_java": "legacy_java"
+  },
+  "notes": "This file is intentionally simple; real monorepos often use custom tools."
+}
