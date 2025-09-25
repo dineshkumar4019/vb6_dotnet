@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Project>
-  <PropertyGroup>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <RootNamespace>WinFormsApp</RootNamespace>
-  </PropertyGroup>
-</Project>
